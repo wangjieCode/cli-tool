@@ -1,0 +1,18 @@
+{
+  "name": "wj-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "jhc-cli": "./bin/test"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "chalk": "^3.0.0",
+    "commander": "^4.0.1",
+    "download-git-repo": "^3.0.2",
+    "figlet": "^1.2.4",
+    "inquirer": "^7.0.4",
+    "ora": "^4.0.3"
+  }
+}
