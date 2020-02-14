@@ -1,8 +1,11 @@
 {
-  "name": "wj-cli",
+  "name": "jhc-cli",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "author": "wangjie",
+  "keywords": ["jhc","wangjie","wj","cli"],
+  "bugs": "1787612871@qq.com",
   "bin": {
     "jhc-cli": "./bin/test"
   },

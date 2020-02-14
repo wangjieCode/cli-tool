@@ -1,19 +1,22 @@
 # 基于nodejs的cli工具示例
-## 自定义方法
-1. clone 
-2. npm install下载依赖
-   1. > 更改脚手架名称 ![](./img/配置名称.png)
-3. 在github中创建一个组织
-4. 在config中修改Templatehouse为你的组织名
-   - ![Image text](./img/组织name.png)
-5. npm link讲命令映射到全局
 
-## 使用命令
+## github
+> https://github.com/wangjieCode/cli-tool
 
+
+## 模板仓库
+> https://github.com/fenggewanrui/uni-app-template
+
+- 解决uniapp在h5端调试跨域问题
+- 简单封装request
+- 提供mock数据模板
+
+## 开始使用
+
+> npm install jhc-cli
+
+### help
 - jhc-cli --help 帮助
 - jhc-cli create 创建一个项目
-  - ![](./img/tmp.png)
-  - ![](img/name.png)
-  - ![](img/done.png)
 - jhc-cli -v     查看版本
 
