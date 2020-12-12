@@ -608,9 +608,9 @@ inherits@2, inherits@^2.0.1, inherits@~2.0.3:
   integrity sha1-D6LGT5MpF8NDOg3tVTY6rjdBa3w=
 
 ini@^1.3.4:
-  version "1.3.5"
-  resolved "https://registry.npm.taobao.org/ini/download/ini-1.3.5.tgz#eee25f56db1c9ec6085e0c22778083f596abf927"
-  integrity sha1-7uJfVtscnsYIXgwid4CD9Zar+Sc=
+  version "1.3.8"
+  resolved "https://registry.yarnpkg.com/ini/-/ini-1.3.8.tgz#a29da425b48806f34767a4efce397269af28432c"
+  integrity sha512-JV/yugV2uzW5iMRSiZAyDtQd+nxtUnjeLt0acNdw98kKLrvuRVyB80tsREOE7yvGVgalhZ6RNXCmEHkUKBKxew==
 
 inquirer@^7.0.4:
   version "7.0.4"
@@ -732,11 +732,6 @@ make-dir@^1.0.0, make-dir@^1.2.0:
   integrity sha1-ecEDO4BRW9bSTsmTPoYMp17ifww=
   dependencies:
     pify "^3.0.0"
-
-mddir@^1.1.1:
-  version "1.1.1"
-  resolved "https://registry.npm.taobao.org/mddir/download/mddir-1.1.1.tgz#fa7ddd26b92558e6eb9f890d02d25a3f7cda056b"
-  integrity sha1-+n3dJrklWObrn4kNAtJaP3zaBWs=
 
 mime-db@^1.28.0:
   version "1.43.0"
@@ -1105,13 +1100,6 @@ to-buffer@^1.1.1:
   resolved "https://registry.npm.taobao.org/to-buffer/download/to-buffer-1.1.1.tgz#493bd48f62d7c43fcded313a03dcadb2e1213a80"
   integrity sha1-STvUj2LXxD/N7TE6A9ytsuEhOoA=
 
-tree@^0.1.3:
-  version "0.1.3"
-  resolved "https://registry.npm.taobao.org/tree/download/tree-0.1.3.tgz#14fba573d7853009c4ccef44f7409fac7162938f"
-  integrity sha1-FPulc9eFMAnEzO9E90CfrHFik48=
-  dependencies:
-    "0" underscore
-
 trim-repeated@^1.0.0:
   version "1.0.0"
   resolved "https://registry.npm.taobao.org/trim-repeated/download/trim-repeated-1.0.0.tgz#e3646a2ea4e891312bf7eace6cfb05380bc01c21"
@@ -1143,11 +1131,6 @@ unbzip2-stream@^1.0.9:
   dependencies:
     buffer "^5.2.1"
     through "^2.3.8"
-
-underscore@:
-  version "1.9.2"
-  resolved "https://registry.npm.taobao.org/underscore/download/underscore-1.9.2.tgz#0c8d6f536d6f378a5af264a72f7bec50feb7cf2f"
-  integrity sha1-DI1vU21vN4pa8mSnL3vsUP63zy8=
 
 url-parse-lax@^3.0.0:
   version "3.0.0"
